@@ -11,6 +11,7 @@ class FizzBuzz {
 
             i = doFizzBuzz(i);
         }
+        System.out.println("testing");
 
     }
 
